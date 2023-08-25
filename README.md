@@ -21,10 +21,10 @@ We use a Random Forest model for sentiment classification. The trained model is 
 
 Evaluation
 
-The model's performance is evaluated using metrics such as accuracy, precision, recall, and F1-score. Details of the evaluation can be found in the [.pynb].
+The model's performance is evaluated using metrics such as accuracy, precision, recall, and F1-score. Details of the evaluation can be found in the [.pynb file](https://github.com/ujjwalredd/sentimental-analysis-on-imdb-reviews/blob/main/sentimental%20analysis.ipynb).
 
 ## License
 
-This project is licensed under the [MIT License].
+This project is licensed under the [MIT License](https://github.com/ujjwalredd/sentimental-analysis-on-imdb-reviews/blob/main/LICENSE.txt).
 
 

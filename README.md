@@ -19,7 +19,7 @@ The analysis includes data preprocessing, feature engineering, and sentiment cla
 ## Model
 We use a Random Forest model for sentiment classification. The trained model is saved and can be used for making predictions on new data.
 
-Evaluation
+## Evaluation
 
 The model's performance is evaluated using metrics such as accuracy, precision, recall, and F1-score. Details of the evaluation can be found in the [.pynb file](https://github.com/ujjwalredd/sentimental-analysis-on-imdb-reviews/blob/main/sentimental%20analysis.ipynb).
 

@@ -27,4 +27,7 @@ The model's performance is evaluated using metrics such as accuracy, precision, 
 
 This project is licensed under the [MIT License](https://github.com/ujjwalredd/sentimental-analysis-on-imdb-reviews/blob/main/LICENSE.txt).
 
+## Contact
 
+The `.csv file` give is just a sample one. If needed with full dataset can be contact:
+ujjwalreddyks@gmail.com
